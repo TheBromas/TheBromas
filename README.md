@@ -1,16 +1,43 @@
-### Hi there 👋
+# ¡Hola, soy Matias! 👋
 
-<!--
-**TheBromas/TheBromas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado del desarrollo web y la programación. Me encanta crear soluciones creativas y aprender tecnologías nuevas.
 
-Here are some ideas to get you started:
+## 🛠️ Lenguajes y Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: 
+  - HTML
+  - CSS
+  - JavaScript
+  
+- **Backend**:
+  - PHP
+  - Python
+  
+- **Otros**:
+  - Markdown
+  - Git
+  
+## 🌱 Actualmente Aprendiendo
+
+- React
+- Node.js
+- Docker
+- Laravel
+
+## 📂 Proyectos Destacados
+
+### Web Personal
+Mi sitio web personal donde muestro mi portafolio y comparto artículos sobre desarrollo web.
+
+[Ver Proyecto](#)
+
+
+## 📫 Contacto
+
+- 📧 Correo Electrónico: [email@example.com](mailto:email@example.com)
+- 🔗 LinkedIn: [Mi Perfil](https://www.linkedin.com/in/tunombre/)
+- 🐦 Twitter: [@tu_twitter](https://twitter.com/tu_twitter)
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TheBromas&show_icons=true&theme=radical)
